@@ -20,7 +20,7 @@ Soy Ingeniero en Informática egresado, con experiencia como desarrollador junio
 | ------------- | ------------- | ------------- |
 | <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=python,php,javascript"/> | <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,tailwind"/> |
 | **Herramientas** | **Bases de Datos** | **Control de Versiones** |
-| <img src="https://skillicons.dev/icons?i=vscode,github"/> | <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/> | <img src="https://skillicons.dev/icons?i=git,github"/> |
+| <img src="https://skillicons.dev/icons?i=vscode"/> | <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/> | <img src="https://skillicons.dev/icons?i=git,github"/> |
 
 </div>
 
