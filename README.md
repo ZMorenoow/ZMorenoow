@@ -2,7 +2,7 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA5dXlwcTBvYjI0OHppem92enl3ajFmczB1eXV5d29zNGNqZGlqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif" width="40px">&nbsp;***Sobre mi***
 
-Soy Ingeniero en Informática egresado, con experiencia como desarrollador junior PHP en el desarrollo de sistemas web. Me especializo en crear soluciones tecnológicas eficientes y siempre estoy en búsqueda de nuevos desafíos que me permitan expandir mis conocimientos en desarrollo full-stack.
+Soy Ingeniero en Informática egresado, con experiencia como desarrollador junior en el desarrollo de sistemas web. Me especializo en crear soluciones tecnológicas eficientes y siempre estoy en búsqueda de nuevos desafíos que me permitan expandir mis conocimientos en desarrollo full-stack.
 - 🌱 Actualmente aprendiendo...
   - Odoo Software
   - Inteligencia Artificial aplicada
