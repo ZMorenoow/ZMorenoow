@@ -14,6 +14,7 @@ Soy Ingeniero en Informática egresado, con experiencia como desarrollador junio
 
 <h2 >Dominio de tecnologías 🛠️</h2>
 <!--tech stack icons-->
+<br>
 <div align="Center">
 
 | **Web** | **Programación** | **Frameworks** |
@@ -24,8 +25,7 @@ Soy Ingeniero en Informática egresado, con experiencia como desarrollador junio
 
 </div>
 
-<br>
-<br>       
+<br>      
 <!--- stats (end) -->
 <h2 > Por acá mis redes ⚡</h2>
   
